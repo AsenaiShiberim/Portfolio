@@ -1,7 +1,6 @@
 import Intro from "./components/intro";
 import Portfolio from "./components/Portfolio";
 import Timeline from "./components/Timeline";
-import Contact from "./components/Contact";
 // import Footer from "./components/Footer";
 import { ThemeToggle } from "./components/ThemeToggle";
 
