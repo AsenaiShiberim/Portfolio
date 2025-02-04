@@ -1,4 +1,4 @@
-//import Intro from "./components/intro";
+import Intro from "./components/intro";
 import Portfolio from "./components/Portfolio";
 import Timeline from "./components/Timeline";
 // import Footer from "./components/Footer";
@@ -11,6 +11,7 @@ export default function Home() {
       <div className="absolute top-4 right-4">
         <ThemeToggle />
       </div>
+      <Intro />
       <Portfolio />
       <Timeline />
     </main>
