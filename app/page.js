@@ -1,4 +1,4 @@
-import Intro from "./components/Intro";
+import Intro from "./components/intro";
 import Portfolio from "./components/Portfolio";
 import Timeline from "./components/Timeline";
 // import Footer from "./components/Footer";
