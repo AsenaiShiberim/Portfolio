@@ -5,7 +5,7 @@ export default [
         title:'Celsius Cast',
         imgUrl: "/cast.png",
         stack: ['React', 'CSS', 'OpenWeatherMapAPI'],
-        link: 'https://vercel.com/aces-projects-290a394b/celsiuscast',
+        link: 'https://celsiuscast.vercel.app/',
     },
 
     {
