@@ -9,7 +9,9 @@ export default function Intro() {
         Software Developer
       </p>
       <p className="text-sm md:text-base max-w-3xl mb-6 font-medium text-gray-800 ">
-      I am a recent graduate from the Southern Alberta Institute of Technology with a diploma in Software Development. My passion for music production sparked my interest in technology, driving me to explore how the two fields can intersect. I have experience with Java, JavaScript, and Python, and I am currently in the process of learning C++ to dive deeper into audio engineering.
+      I am a recent graduate from the Southern Alberta Institute of Technology with a diploma in Software Development.
+       My passion for music production sparked my interest in technology, driving me to explore how the two fields can intersect. 
+       I have experience with Java, JavaScript, and Python.
       </p>
     </div>
   );
