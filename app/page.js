@@ -13,7 +13,6 @@ export default function Home() {
       </div>
       <Intro />
       <Portfolio />
-      <Timeline />
     </main>
   );
 }
